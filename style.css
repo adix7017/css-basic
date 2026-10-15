@@ -1,0 +1,15 @@
+.box{
+    background-color: burlywood;
+    border: solid brown 5px;
+    padding: 20px;
+    margin: 20px;
+
+}
+p{
+    text-transform: capitalize;
+    text-align: center ;
+    text-shadow: 20px 20px 50px blue;
+     font-family: "Playwrite CU Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
