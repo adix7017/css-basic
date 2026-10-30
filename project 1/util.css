@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+}
+.overlay.width{
+    width: 90%;
+}
+.space-between{
+    justify-content: space-between;
+}
+.align-center{
+    align-items: center;
+}
